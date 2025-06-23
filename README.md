@@ -9,9 +9,15 @@
 
 - 🌱 I’m currently learning **React,NodeJs,Express,Mongodb,Js**
 
+- 👯 I’m looking to collaborate on **FreshCart**
+
+- 🤝 I’m looking for help with **React**
+
 - 👨‍💻 All of my projects are available at [https://rahulrajak05.github.io/Rahul-Portfolio/?fbclid=PAY2xjawJk3gdleHRuA2FlbQIxMQABp93jEnQwq7erB2Kh3e5A2ikAULa32Zt485j69_E7F8icalwFtSVnVM5yMBNf_aem_qves7lS8Vp0wYn7t07o7rg](https://rahulrajak05.github.io/Rahul-Portfolio/?fbclid=PAY2xjawJk3gdleHRuA2FlbQIxMQABp93jEnQwq7erB2Kh3e5A2ikAULa32Zt485j69_E7F8icalwFtSVnVM5yMBNf_aem_qves7lS8Vp0wYn7t07o7rg)
 
 - 💬 Ask me about **react**
+
+- 📫 How to reach me **rajakrahul1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
